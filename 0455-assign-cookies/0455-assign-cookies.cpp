@@ -10,6 +10,7 @@ public:
             if(g[r] <= s[l]) r += 1;
             l += 1;
         }
+        
         return r;
 
         
