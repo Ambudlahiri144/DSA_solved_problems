@@ -6,6 +6,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -19,4 +20,12 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
