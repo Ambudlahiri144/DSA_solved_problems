@@ -41,4 +41,12 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
