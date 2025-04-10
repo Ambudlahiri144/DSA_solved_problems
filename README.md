@@ -7,6 +7,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0040-combination-sum-ii) |
@@ -69,6 +70,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
