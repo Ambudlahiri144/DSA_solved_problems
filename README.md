@@ -14,6 +14,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0046-permutations](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
@@ -27,6 +28,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -76,4 +78,13 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
