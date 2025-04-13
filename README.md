@@ -20,6 +20,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
@@ -83,8 +85,17 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
