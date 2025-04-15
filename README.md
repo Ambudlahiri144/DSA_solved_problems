@@ -93,9 +93,18 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
