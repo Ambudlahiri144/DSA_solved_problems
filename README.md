@@ -94,6 +94,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -103,8 +104,10 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
