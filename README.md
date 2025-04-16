@@ -16,6 +16,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -107,9 +109,14 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0020-valid-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
