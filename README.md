@@ -20,6 +20,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
+| [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,4 +162,8 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
