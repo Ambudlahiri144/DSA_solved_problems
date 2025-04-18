@@ -114,10 +114,12 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0460-lfu-cache) |
+| [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -136,6 +139,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
 ## Bucket Sort
 |  |
 | ------- |
