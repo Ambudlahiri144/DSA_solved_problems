@@ -13,6 +13,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0040-combination-sum-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0239-sliding-window-maximum) |
@@ -124,6 +125,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
@@ -138,6 +140,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
 ## Bucket Sort
