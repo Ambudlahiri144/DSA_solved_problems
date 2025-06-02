@@ -73,6 +73,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
+| [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0460-lfu-cache) |
@@ -172,5 +173,14 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
