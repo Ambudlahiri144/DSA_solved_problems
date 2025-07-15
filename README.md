@@ -16,6 +16,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
@@ -177,13 +179,19 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
