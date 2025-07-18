@@ -34,6 +34,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
