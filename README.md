@@ -66,11 +66,13 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -200,4 +202,8 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0801-is-graph-bipartite) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
