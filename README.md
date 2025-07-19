@@ -16,6 +16,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0239-sliding-window-maximum) |
@@ -68,6 +69,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
