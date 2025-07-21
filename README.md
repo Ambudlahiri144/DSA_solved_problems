@@ -28,6 +28,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0213-house-robber-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0063-unique-paths-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
+| [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
 |  |
