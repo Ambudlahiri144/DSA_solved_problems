@@ -15,6 +15,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0046-permutations](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
@@ -71,6 +72,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0062-unique-paths](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
@@ -99,6 +101,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 ## Binary Search
