@@ -32,12 +32,14 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +67,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
 | ------- |
@@ -85,6 +88,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0416-partition-equal-subset-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +124,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -232,4 +237,12 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0062-unique-paths) |
+## Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
