@@ -28,6 +28,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -64,6 +65,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0051-n-queens](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0213-house-robber-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
