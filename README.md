@@ -46,6 +46,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
@@ -76,6 +77,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
@@ -88,6 +90,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0064-minimum-path-sum) |
@@ -119,6 +122,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
