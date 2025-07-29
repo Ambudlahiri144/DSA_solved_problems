@@ -4,7 +4,7 @@ public:
         int n = prices.size();
         vector<int> front(5,0);
         vector<int> curr(5,0);
-        front[0] = curr[0] = 0;
+        
         for(int i = n-1;i>=0;i--){
             for(int trans = 0;trans <= 3;trans++){
                 
