@@ -37,6 +37,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
@@ -54,6 +55,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
@@ -118,6 +120,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
