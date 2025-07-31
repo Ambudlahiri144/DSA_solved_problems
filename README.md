@@ -42,6 +42,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
@@ -50,6 +51,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0018-4sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
@@ -68,6 +70,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +97,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -127,6 +131,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -153,6 +158,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
+| [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 ## Matrix
 |  |
 | ------- |
