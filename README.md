@@ -98,6 +98,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0072-edit-distance](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
@@ -121,6 +122,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0213-house-robber-ii) |
