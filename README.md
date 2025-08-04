@@ -43,6 +43,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -138,6 +139,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
