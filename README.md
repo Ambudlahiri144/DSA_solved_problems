@@ -45,6 +45,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -143,6 +144,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -179,6 +181,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 ## Binary Search
 |  |
