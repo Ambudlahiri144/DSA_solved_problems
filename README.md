@@ -22,6 +22,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
@@ -102,6 +103,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0115-distinct-subsequences](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
@@ -126,6 +128,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
@@ -169,6 +172,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0460-lfu-cache) |
@@ -303,6 +307,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -315,4 +320,8 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
