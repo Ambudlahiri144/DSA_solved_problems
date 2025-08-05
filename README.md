@@ -22,6 +22,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0200-number-of-islands) |
@@ -125,6 +126,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
+| [0152-maximum-product-subarray](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0213-house-robber-ii) |
