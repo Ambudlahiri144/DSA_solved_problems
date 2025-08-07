@@ -37,6 +37,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
@@ -177,6 +179,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0146-lru-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
@@ -328,4 +331,5 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
