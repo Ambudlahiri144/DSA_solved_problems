@@ -51,6 +51,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1559-cherry-pickup-ii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | ------- |
 | [0090-subsets-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
 |  |
@@ -332,4 +334,5 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
