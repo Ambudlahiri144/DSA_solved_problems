@@ -111,6 +111,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -248,6 +249,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0232-implement-queue-using-stacks](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0937-online-stock-span) |
+| [1078-remove-outermost-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1197-parsing-a-boolean-expression) |
 ## Queue
 |  |
