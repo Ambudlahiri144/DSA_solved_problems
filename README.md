@@ -70,6 +70,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0455-assign-cookies](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [1250-longest-common-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +171,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0062-unique-paths](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0368-largest-divisible-subset) |
+| [2032-largest-odd-number-in-string](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
