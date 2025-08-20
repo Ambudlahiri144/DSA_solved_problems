@@ -7,6 +7,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0037-sudoku-solver) |
@@ -103,6 +104,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0072-edit-distance) |
@@ -338,6 +340,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
