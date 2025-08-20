@@ -113,6 +113,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0132-palindrome-partitioning-ii](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0583-delete-operation-for-two-strings) |
@@ -187,6 +188,7 @@ This is a repo of the some of the solved problems of Leetcode on various DSA con
 | [0133-clone-graph](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Ambudlahiri144/DSA_solved_problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
